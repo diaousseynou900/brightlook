@@ -1,0 +1,29 @@
+.navbar-brand{
+    font-family: cursive;
+}
+.hero{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 80vh;
+    background-image: url(bim/IMG_2148\ \(1\).jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 5cap;
+    border-radius: 5px;
+}
+.h1dec{
+    color: white;
+    font-family: cursive;
+   
+}
+.h2{
+    font-family: cursive;
+}
+.price{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card-title{
+    font-family: cursive;
+}
